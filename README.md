@@ -23,3 +23,8 @@ I am passionate about turning raw data into meaningful insights, solving busines
 - **Entry-level Data Analyst roles** where I can apply my skills  
 - Opportunities to collaborate on **data-driven projects**  
 - Mentorship & networking with professionals in **data analytics & business intelligence**  
+
+## 📫 Get in Touch!  
+- **LinkedIn**:
+- - **GitHub**:
+  -  **Portfolio (Coming Soon!)** 
