@@ -25,6 +25,6 @@ I am passionate about turning raw data into meaningful insights, solving busines
 - Mentorship & networking with professionals in **data analytics & business intelligence**  
 
 ## 📫 Get in Touch!  
-- **LinkedIn**:
+- **LinkedIn**: https://www.linkedin.com/in/alexis-lim-634325134/
 - - **GitHub**:
   -  **Portfolio (Coming Soon!)** 
