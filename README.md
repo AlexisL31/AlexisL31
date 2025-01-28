@@ -26,5 +26,5 @@ I am passionate about turning raw data into meaningful insights, solving busines
 
 ## 📫 Get in Touch!  
 - **LinkedIn**: https://www.linkedin.com/in/alexis-lim-634325134/
--  **GitHub**:
+-  **GitHub**: 
 -  **Portfolio (Coming Soon!)** 
