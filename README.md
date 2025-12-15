@@ -1,4 +1,5 @@
 Hi, I’m Alexis
+
 About Me
 
 I am a data analyst with a background in administration, customer service, and business management. In those roles, I regularly worked with reports, performance tracking, and operational data, which pushed me toward analytics as a way to answer business questions more effectively.
